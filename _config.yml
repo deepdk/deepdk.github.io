@@ -14,8 +14,9 @@ author: Deepali Kank
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
   Blog: "blog"
+  About Me: "aboutme"
+  
  
 
 # --- Logo --- #
